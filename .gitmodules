@@ -1,0 +1,3 @@
+[submodule "AppointmentService"]
+	path = AppointmentService
+	url = https://github.com/TechVisionaries/AppointmentService.git
