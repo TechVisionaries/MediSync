@@ -1,3 +1,12 @@
 [submodule "AppointmentService"]
 	path = AppointmentService
 	url = https://github.com/TechVisionaries/AppointmentService.git
+[submodule "DoctorService"]
+	path = DoctorService
+	url = https://github.com/TechVisionaries/DoctorService.git
+[submodule "FeedbackService"]
+	path = FeedbackService
+	url = https://github.com/TechVisionaries/FeedbackService.git
+[submodule "AuthenticationService"]
+	path = AuthenticationService
+	url = https://github.com/TechVisionaries/AuthenticationService.git
